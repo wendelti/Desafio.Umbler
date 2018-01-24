@@ -1,0 +1,10 @@
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\ExternalServices\obj\Debug\netstandard2.0\ExternalServices.csproj.CoreCompileInputs.cache
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\ExternalServices\obj\Debug\netstandard2.0\ExternalServices.AssemblyInfoInputs.cache
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\ExternalServices\obj\Debug\netstandard2.0\ExternalServices.AssemblyInfo.cs
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\ExternalServices\bin\Debug\netstandard2.0\ExternalServices.deps.json
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\ExternalServices\bin\Debug\netstandard2.0\ExternalServices.dll
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\ExternalServices\bin\Debug\netstandard2.0\ExternalServices.pdb
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\ExternalServices\bin\Debug\netstandard2.0\CrossCutting.dll
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\ExternalServices\bin\Debug\netstandard2.0\CrossCutting.pdb
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\ExternalServices\obj\Debug\netstandard2.0\ExternalServices.dll
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\ExternalServices\obj\Debug\netstandard2.0\ExternalServices.pdb

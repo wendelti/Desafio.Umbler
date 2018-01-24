@@ -1,0 +1,14 @@
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\bin\Debug\netstandard2.0\Application.deps.json
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\bin\Debug\netstandard2.0\Application.dll
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\bin\Debug\netstandard2.0\Application.pdb
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\bin\Debug\netstandard2.0\CrossCutting.dll
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\bin\Debug\netstandard2.0\Data.dll
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\bin\Debug\netstandard2.0\Domain.dll
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\bin\Debug\netstandard2.0\Data.pdb
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\bin\Debug\netstandard2.0\CrossCutting.pdb
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\bin\Debug\netstandard2.0\Domain.pdb
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\obj\Debug\netstandard2.0\Application.dll
+c:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Application\obj\Debug\netstandard2.0\Application.pdb

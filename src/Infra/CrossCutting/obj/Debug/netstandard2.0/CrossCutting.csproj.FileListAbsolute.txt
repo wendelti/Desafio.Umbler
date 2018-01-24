@@ -1,0 +1,8 @@
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\CrossCutting\obj\Debug\netstandard2.0\CrossCutting.csproj.CoreCompileInputs.cache
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\CrossCutting\obj\Debug\netstandard2.0\CrossCutting.AssemblyInfoInputs.cache
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\CrossCutting\obj\Debug\netstandard2.0\CrossCutting.AssemblyInfo.cs
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\CrossCutting\bin\Debug\netstandard2.0\CrossCutting.deps.json
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\CrossCutting\bin\Debug\netstandard2.0\CrossCutting.dll
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\CrossCutting\bin\Debug\netstandard2.0\CrossCutting.pdb
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\CrossCutting\obj\Debug\netstandard2.0\CrossCutting.dll
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\CrossCutting\obj\Debug\netstandard2.0\CrossCutting.pdb

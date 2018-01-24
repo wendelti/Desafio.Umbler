@@ -1,0 +1,10 @@
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\Data\bin\Debug\netstandard2.0\Data.dll
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\Data\bin\Debug\netstandard2.0\Domain.dll
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\Data\bin\Debug\netstandard2.0\Domain.pdb
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\Data\obj\Debug\netstandard2.0\Data.dll
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Infra\Data\obj\Debug\netstandard2.0\Data.pdb

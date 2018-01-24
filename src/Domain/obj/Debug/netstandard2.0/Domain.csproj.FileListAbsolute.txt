@@ -1,0 +1,8 @@
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\_wendel\New folder\dev-challenge-master\dev-challenge-master\src\Domain\obj\Debug\netstandard2.0\Domain.pdb
